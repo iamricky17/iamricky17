@@ -8,7 +8,6 @@
 Hi there! I'm **Patrick Mwikwabe Zablon**, a first-year B.Sc. Computer Science student at the University of Dar es Salaam. I'm passionate about web development, programming, and learning new technologies.
 
 ## 👨‍💻 About Me
-- **Date of Birth**: March 17, 2004
 - **Nationality**: Tanzanian
 
 ## 🏫 Education
