@@ -1,6 +1,6 @@
 # Welcome to Patrick's GitHub Profile! 👨‍💻
 
-## Hi there! 👋 I'm **Patrick Mwikwabe Zablon**, a passionate web developer, programmer, and tech enthusiast constantly exploring the frontiers of innovation and problem-solving through code.
+## Hi there! 👋 I'm **Patrick Mwikwabe Zablon**, an engineer, an innovator, and tech enthusiast constantly exploring the frontiers of innovation and problem-solving through code.
 
 ---
 
